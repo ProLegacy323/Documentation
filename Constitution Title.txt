@@ -1,0 +1,16 @@
+\begin{document}
+\begin{titlepage}
+\begin{center}
+{\bf \LARGE Chelmsford Makerspace}\\[36pt]
+{\Large Constitution}
+
+This is a dry run of the Chelmsford Makerspace Constitution.
+
+Please read through and mark up things that need to be changed/amended/added.
+
+\vfill
+
+\end{center}
+\end{titlepage}
+\include{constitution-body}
+\end{document}
