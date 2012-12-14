@@ -1,0 +1,47 @@
+\documentclass{enumerate}
+\title{Constitution of Chelmsford Makerspace}
+\begin{enumerate}
+\section{Interpretation}
+\item
+	In the articles:
+	\begin{description}
+	\item[Chelmsford Makerspace] refers to the organisation that this article/constitution details.
+	\item[Articles] refers to Chelmsford Makerspace's Articles of Association, and is in addition to them, although they don't exist as of yet.
+	\item[The Committee] refers to those on the Committee board at Chelmsford Makerspace. There is no official committee at this time, but will be officiated at a later date.
+	\item[The Space] refers to the physical area, building or buildings leased or purchased by Chelmsford Makersapce.
+	\item[Committee Member] refers to members that are either leading or ensured with the running of Chelmsford Makerspace. Currently, Ben Orrin and Richard Raybould are the only "official" members of the Chelmsford Makerspace Committee.
+	\item[Member] refers to any person that is currently a member of Chelmsford Makerspace.
+	\item[Vote] refers to the democratic vote of the members of Chelmsford Makerspace.
+	\item[Secretary] refers to the person appointed to perform the duties of the secretary of Chelmsford Makerspace.
+	\item[NFC/RFID System] refers to the NFC security/sign in/signout system to be incorporated into the space in the future.
+	\item[Guests] refers to induviduals outside of Chelmsford Makerspace that either attend the Open Tuesday Hack Night or attend any other Chelmsford Makerspace workshop or event without official member status.
+\section{Committee Members}
+\item
+	1.1 Committee Members have the final verdict on any subject of debate, taking into consideration the vote of the members of Chelmsford Makerspace.
+	1.2 A Committee Member's term of office is unending until decided otherwise, whether that be due to the decision to step down by a Committee Member themselves, the departure of a Committee Member from Chelmsford Makerspace or a vote by the Committee that a member is to step down from the Committee.
+	1.3 There is no guideline to the number of members on the Committee at this time, but the likeliness is it will be below 10.
+	1.4 The Committee can vote any member that wishes to join in. It is not a matter that concerns the members of Chelmsford Makerspace.
+	1.5 Specfic roles will be decided at a later date.
+	1.6 Committee Members will be entrusted with manual key access for the space as well as the regular NFC/RFID tag for the NFC system that a regular member is given.
+	1.7 Committee Members must pay a fee of £10 per month to the running of the organisation.
+
+\section{Members}
+\item
+	2.1 Members of Chelmsford Makerspace are entitled to democratically vote on any decisions flagged up by the committee or indeed any idea proposed to Chelmsford Makerspace by other members.
+	2.2 Each and every member of Chelmsford Makerspace must pay a fee of £10 per month to the running of the organisation (This may be raised for older members at a later date).
+	2.3 Payment of the membership entitles a member to unlimited use of the space and free entry to any open hack night or open workshop. However, a member can still donate more money to the running of Chelmsford Makerspace if they wish to, although there will be no inclination.
+	2.4 Members of Chelmsford Makerspace are entitled to fufill their duty as a member of the organisation. These duties are:
+		2.4.1 For every member to clean up their mess (Including washing up their own cutlery at the end of the night, putting away tables and chairs that they have gotten out) at the end of any open hack night, workshop or when they visit the space of their own accord.
+		2.4.2 For every member to be obliged to commit themselves to tasks asked of them by members of the committee. This applies to cleaning the floor, taking out rubbish and any other chores associated with the keeping of the space.
+		2.4.3 For every member to make guests of Chelmsford Makerspace feel welcome and to explain to them "Who we are" and "What we do".
+		2.4.4 For every member to set a good impression of Chelmsford Makerspace. This refers to the material/content posted on any digital platform associated with Chelmsford Makerspace, anything said in person about Chelmsford Makerspace and indeed the actions of a member at any open hack night or open workshop that Chelmsford Makerspace runs.
+		2.4.5 To contribute accordingly to the theme of any given workshop night and refrain from playing games and or dolan memes or indeed anything of that nature that detracts from the subject matter of the workshop. This does not apply to the open Tuesday hack nights, but in the precense of guests, discretion obligated, as per 2.4.4.
+	2.5 Members of Chelmsford Makerspace may be given elevated roles at a later date without being part of the Committee. This could be anything from head of a project, to chief bin emptier (If a member feels that they wish do a job for other members of the space). These roles can be chosen by the members of Chelmsford Makerspace or appointed by The Committee, with consent of the member.
+	2.6 Each and every new member will be given a membership pack which contains the essentials for a member of Chelmsford Makerspace.
+	2.7 Each and every member will be given access to an NFC/RFID tag to enter the space, via the NFC/RFID system. This will also account for other tasks at a later date. As a holder of an NFC/RFID tag, a member is obligated to abide these rules:
+		2.7.1 As a member of Chelmsford Makerspace, their NFC/RFID tag must be kept within their possession at all times. 
+		2.7.2 Access given to the space via an NFC/RFID tag to a guest by a member of 2.7.3 Chelmsford Makerspace is forbidden. 
+		Guests brought into the space by members are the responsibility of that member and are directly accountable for any of their actions.
+		2.7.4 One NFC/RFID tag will be given to each and every member as part of the membership pack. Loss of this tag will incur a small fee for a new one.
+\section{
+	
